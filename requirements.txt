@@ -6,3 +6,5 @@ python-dotenv
 httpx
 lancedb==0.3.4
 langchain
+langchain-chroma>=0.1.2
+langchain-openai>=0.3.2
